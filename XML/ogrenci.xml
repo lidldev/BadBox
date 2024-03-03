@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Ogrenciler>
+    <ogrenci>
+        <ogrAd>Ahmet Affan</ogrAd>
+        <ogrSoy>Ebcioğlu</ogrSoy>
+        <ogrNum>911</ogrNum>
+        <ogrNot>98</ogrNot>
+    </ogrenci>
+    <ogrenci>
+        <ogrAd>Recep Tayyip</ogrAd>
+        <ogrSoy>Erdoğan</ogrSoy>
+        <ogrNum>82</ogrNum>
+        <ogrNot>70</ogrNot>
+    </ogrenci>
+    <ogrenci>
+        <ogrAd>Mehmet</ogrAd>
+        <ogrSoy>Şimşek</ogrSoy>
+        <ogrNum>100</ogrNum>
+        <ogrNot>100</ogrNot>
+    </ogrenci>
+</Ogrenciler>

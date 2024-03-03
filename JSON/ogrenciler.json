@@ -1,0 +1,22 @@
+{
+    "ogrenciler":[
+        {
+            "ogrNo":911,
+            "ogrAd":"Ahmet Affan",
+            "ogrSoyad":"Ebcioğlu",
+            "ogrNot":97
+        },
+        {
+            "ogrNo":82,
+            "ogrAd":"Beyza",
+            "ogrSoyad":"Akkaya",
+            "ogrNot":96
+        },
+        {
+            "ogrNo":98,
+            "ogrAd":"Kemal",
+            "ogrSoyad":"Gümüşkaya",
+            "ogrNot":87
+        }
+    ]
+}
